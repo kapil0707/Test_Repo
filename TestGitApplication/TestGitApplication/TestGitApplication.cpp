@@ -25,6 +25,8 @@ int main()
     //Additional changes to Test branch - Local and Remote
     std::cout << "Additional changes to Test branch - Local and Remote\n";
 
+    //Created a local branch and set upstream to a remote branch with different name
+    std::cout << "Created a local branch and set upstream to a remote branch with different name\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
