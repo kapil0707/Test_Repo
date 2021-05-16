@@ -10,6 +10,9 @@ int main()
     //Adding a change, test commit change using show command
     //This line is added to test changes 
     //Local commit done and not pushed to github. This is addition change done to test if multiple local commits can be pushed at once to github
+
+    //Added a new branch l_iss02. This branch will never have changes in l_iss01
+    std::cout << "Only have changes related to branch: l_iss02\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
