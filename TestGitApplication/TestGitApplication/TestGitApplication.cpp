@@ -8,6 +8,7 @@ int main()
     std::cout << "Hello World!\n";
     std::cout << "New Unsatged Commit\n";
     //Adding a change, test commit change using show command
+    //This line is added to test changes 
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
