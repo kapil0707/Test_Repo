@@ -13,6 +13,10 @@ int main()
 
     //Added a new branch l_iss02. This branch will never have changes in l_iss01
     std::cout << "Only have changes related to branch: l_iss02\n";
+
+    //Changes to local branch l_iss01
+    std::cout << "Create local branch named: l_iss01\n";
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
