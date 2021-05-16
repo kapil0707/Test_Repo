@@ -20,7 +20,10 @@ int main()
     //Created a branch named "Test". This branch is created locally. 
     //Our remote server has only one branch "master"
     //The purpose is to add locally created branch to remote repo
-    std::cout << "Created local branch and pushed the same branch to Remote repo, Branch: Test";
+    std::cout << "Created local branch and pushed the same branch to Remote repo, Branch: Test\n";
+
+    //Additional changes to Test branch - Local and Remote
+    std::cout << "Additional changes to Test branch - Local and Remote\n";
 
 }
 
