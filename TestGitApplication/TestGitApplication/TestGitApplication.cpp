@@ -17,6 +17,11 @@ int main()
     //Changes to local branch l_iss01
     std::cout << "Create local branch named: l_iss01\n";
 
+    //Created a branch named "Test". This branch is created locally. 
+    //Our remote server has only one branch "master"
+    //The purpose is to add locally created branch to remote repo
+    std::cout << "Created local branch and pushed the same branch to Remote repo, Branch: Test";
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
