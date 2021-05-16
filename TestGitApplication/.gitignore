@@ -1,0 +1,12 @@
+#ignoring folders
+x64/
+TestGitApplication/x64/
+.vs/
+
+#ignoring extensions
+#*.exe
+#*.ilk
+#*.pdb
+#*.tlog
+#*.db
+
